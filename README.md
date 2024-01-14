@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @prabhatshahi
 - 👀 I’m interested in MERN Stack Developer Role
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on React Project
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Currently diving into the MERN Stack 
+- 💞️ Count me in! I'm always up for contributing to innovative projects. Tell me more about the exciting venture you have in mind!
+- 📫 To connect, drop me a message here, and we can explore further on your preferred platform @ranjanprabhat556@gmail.com
+
 
 <!---
 prabhatshahi/prabhatshahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
